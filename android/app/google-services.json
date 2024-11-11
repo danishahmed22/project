@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513397517704",
+    "project_id": "futuristauthproj",
+    "storage_bucket": "futuristauthproj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513397517704:android:4f96e4ed8705b62d229e3d",
+        "android_client_info": {
+          "package_name": "com.example.futurist_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzX3fq7dIBVxPBCzFDRDBd8cg5LCUlor0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
